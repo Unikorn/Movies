@@ -1,0 +1,28 @@
+{
+  "name": "MoviesDb",
+  "version": "1.0.0",
+  "description": "Movies Crawler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unikorn/Movies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unikorn/Movies/issues"
+  },
+  "homepage": "https://github.com/Unikorn/Movies#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "lodash": "^4.17.11",
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0"
+  }
+}
